@@ -86,8 +86,10 @@ section p {
 /* Section Images */
 
 section#home {
-    background: url() no-repeat center center/
+    background: url("abstract-technology-particle-background_52683-25766.jpg") no-repeat center center/
     cover;
+    background-color: rgba(253, 0, 0, 1);
+    background-blend-mode: multiply;
 }
 section#About {
     background: url() no-repeat center center/
