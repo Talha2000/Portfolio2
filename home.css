@@ -86,22 +86,32 @@ section p {
 /* Section Images */
 
 section#home {
-    background: url("abstract-technology-particle-background_52683-25766.jpg") no-repeat center center/
+    background: url("585791ffa147edc.jpg") no-repeat center center/
     cover;
-    background-color: rgba(253, 0, 0, 1);
+    background-color: rgb(60, 57, 63);
     background-blend-mode: multiply;
+    background-attachment: fixed;
 }
 section#About {
-    background: url() no-repeat center center/
+    background: url("585791ffa147edc.jpg")no-repeat center center/
     cover;
+    background-attachment: fixed;
+    background-color: rgb(60,57,63);
+    background-blend-mode: multiply;
 }
-section#Service {
-    background: url() no-repeat center center/
+section#Projects {
+    background: url("Preview-Image-1.jpg") no-repeat center center/
     cover;
+    background-attachment: fixed;
+    background-color: rgb(38, 56, 50);
+    background-blend-mode: multiply;
 }
 section#Contact {
-    background: url() no-repeat center center/
+    background: url("dell-background.jpg") no-repeat center center/
     cover;
+    background-attachment: fixed;
+    background-color:  rgb(38, 56, 50);
+    background-blend-mode: multiply;
 }
 
 
